@@ -5,12 +5,12 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8469B109-E44B-4B03-9BA6-0C0541F2D74B}</ProjectGuid>
+    <ProjectGuid>{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Symbol.XamarinEMDK.SerialCommSample1</RootNamespace>
-    <AssemblyName>SerialCommSample1</AssemblyName>
+    <RootNamespace>symbol.xamarinemdk.EMDKXamarinSerialComm</RootNamespace>
+    <AssemblyName>EMDKXamarinSerialComm</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidApplication>true</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
@@ -43,12 +43,11 @@
   <ItemGroup>
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
-    <Reference Include="Symbol.XamarinEMDK">
-      <HintPath>..\Components\emdk-component-2.7.0.78\lib\android\Symbol.XamarinEMDK.dll</HintPath>
+    <Reference Include="Symbol.XamarinEMDK, Version=3.0.0.22, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Symbol.XamarinEMDK.3.0.0.22\lib\MonoAndroid\Symbol.XamarinEMDK.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Data" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Xml" />
   </ItemGroup>
@@ -58,31 +57,27 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\AboutResources.txt" />
     <AndroidResource Include="Resources\layout\Main.axml" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\values\Strings.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
+    <AndroidResource Include="Resources\values\Strings.xml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\Icon.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
     <None Include="Properties\AndroidManifest.xml">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="lib\" />
+    <AndroidAsset Include="Assets\EMDKConfig.xml" />
   </ItemGroup>
   <ItemGroup>
-    <XamarinComponentReference Include="emdk-component">
-      <Visible>False</Visible>
-      <Version>2.7.0.78</Version>
-    </XamarinComponentReference>
+    <Content Include="Lib\Symbol.XamarinEMDK.dll" />
   </ItemGroup>
+ 
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
      Other similar extension points exist, see Microsoft.Common.targets.

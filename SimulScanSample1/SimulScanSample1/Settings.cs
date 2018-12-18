@@ -12,6 +12,7 @@ public class Settings {
    public List<File> fileList; 
     public bool enableAutoCapture;
     public bool enableFeedbackAudio;
+    public bool enableDebugMode;
     public bool enableHaptic;
     public bool enableLED;
     public bool enableResultConfirmation;

@@ -1,0 +1,36 @@
+EMDKXamarinSerialComm.MainActivity, EMDKXamarinSerialComm;md50d97b76ecee1814b4538f912fdefa3c5.MainActivity
+EMDKXamarinSerialComm.MainActivity, EMDKXamarinSerialComm, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null;md50d97b76ecee1814b4538f912fdefa3c5.MainActivity
+EMDKXamarinSerialComm.MainActivity;md50d97b76ecee1814b4538f912fdefa3c5.MainActivity
+emdkxamarinserialcomm.MainActivity;md50d97b76ecee1814b4538f912fdefa3c5.MainActivity
+Symbol.XamarinEMDK.EMDKManager/IEMDKListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.EMDKManager_EMDKListenerImplementor
+Symbol.XamarinEMDK.EMDKManager+IEMDKListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.EMDKManager_EMDKListenerImplementor
+Symbol.XamarinEMDK.EMDKManager.IEMDKListenerImplementor;mono.com.symbol.emdk.EMDKManager_EMDKListenerImplementor
+mono.com.symbol.emdk.EMDKManager_EMDKListenerImplementor;mono.com.symbol.emdk.EMDKManager_EMDKListenerImplementor
+Symbol.XamarinEMDK.EMDKManager/IStatusListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.EMDKManager_StatusListenerImplementor
+Symbol.XamarinEMDK.EMDKManager+IStatusListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.EMDKManager_StatusListenerImplementor
+Symbol.XamarinEMDK.EMDKManager.IStatusListenerImplementor;mono.com.symbol.emdk.EMDKManager_StatusListenerImplementor
+mono.com.symbol.emdk.EMDKManager_StatusListenerImplementor;mono.com.symbol.emdk.EMDKManager_StatusListenerImplementor
+Symbol.XamarinEMDK.ProfileManager/IDataListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.ProfileManager_DataListenerImplementor
+Symbol.XamarinEMDK.ProfileManager+IDataListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.ProfileManager_DataListenerImplementor
+Symbol.XamarinEMDK.ProfileManager.IDataListenerImplementor;mono.com.symbol.emdk.ProfileManager_DataListenerImplementor
+mono.com.symbol.emdk.ProfileManager_DataListenerImplementor;mono.com.symbol.emdk.ProfileManager_DataListenerImplementor
+Symbol.XamarinEMDK.Payment.PaymentDevice/IDataListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.payment.PaymentDevice_DataListenerImplementor
+Symbol.XamarinEMDK.Payment.PaymentDevice+IDataListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.payment.PaymentDevice_DataListenerImplementor
+Symbol.XamarinEMDK.Payment.PaymentDevice.IDataListenerImplementor;mono.com.symbol.emdk.payment.PaymentDevice_DataListenerImplementor
+mono.com.symbol.emdk.payment.PaymentDevice_DataListenerImplementor;mono.com.symbol.emdk.payment.PaymentDevice_DataListenerImplementor
+Symbol.XamarinEMDK.Payment.PaymentManager/IPaymentConnectionListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.payment.PaymentManager_PaymentConnectionListenerImplementor
+Symbol.XamarinEMDK.Payment.PaymentManager+IPaymentConnectionListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.payment.PaymentManager_PaymentConnectionListenerImplementor
+Symbol.XamarinEMDK.Payment.PaymentManager.IPaymentConnectionListenerImplementor;mono.com.symbol.emdk.payment.PaymentManager_PaymentConnectionListenerImplementor
+mono.com.symbol.emdk.payment.PaymentManager_PaymentConnectionListenerImplementor;mono.com.symbol.emdk.payment.PaymentManager_PaymentConnectionListenerImplementor
+Symbol.XamarinEMDK.Barcode.Scanner/IDataListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.barcode.Scanner_DataListenerImplementor
+Symbol.XamarinEMDK.Barcode.Scanner+IDataListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.barcode.Scanner_DataListenerImplementor
+Symbol.XamarinEMDK.Barcode.Scanner.IDataListenerImplementor;mono.com.symbol.emdk.barcode.Scanner_DataListenerImplementor
+mono.com.symbol.emdk.barcode.Scanner_DataListenerImplementor;mono.com.symbol.emdk.barcode.Scanner_DataListenerImplementor
+Symbol.XamarinEMDK.Barcode.Scanner/IStatusListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.barcode.Scanner_StatusListenerImplementor
+Symbol.XamarinEMDK.Barcode.Scanner+IStatusListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.barcode.Scanner_StatusListenerImplementor
+Symbol.XamarinEMDK.Barcode.Scanner.IStatusListenerImplementor;mono.com.symbol.emdk.barcode.Scanner_StatusListenerImplementor
+mono.com.symbol.emdk.barcode.Scanner_StatusListenerImplementor;mono.com.symbol.emdk.barcode.Scanner_StatusListenerImplementor
+Symbol.XamarinEMDK.Barcode.BarcodeManager/IScannerConnectionListenerImplementor, Symbol.XamarinEMDK;mono.com.symbol.emdk.barcode.BarcodeManager_ScannerConnectionListenerImplementor
+Symbol.XamarinEMDK.Barcode.BarcodeManager+IScannerConnectionListenerImplementor, Symbol.XamarinEMDK, Version=2.0.0.1, Culture=neutral, PublicKeyToken=null;mono.com.symbol.emdk.barcode.BarcodeManager_ScannerConnectionListenerImplementor
+Symbol.XamarinEMDK.Barcode.BarcodeManager.IScannerConnectionListenerImplementor;mono.com.symbol.emdk.barcode.BarcodeManager_ScannerConnectionListenerImplementor
+mono.com.symbol.emdk.barcode.BarcodeManager_ScannerConnectionListenerImplementor;mono.com.symbol.emdk.barcode.BarcodeManager_ScannerConnectionListenerImplementor

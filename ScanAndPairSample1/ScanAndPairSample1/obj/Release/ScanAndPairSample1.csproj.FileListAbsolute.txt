@@ -1,0 +1,17 @@
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\bin\Release\ScanAndPaiSample1.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\bin\Release\ScanAndPaiSample1.pdb
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\bin\Release\ScanAndPairSample1.ScanAndPairSample1.apk
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\bin\Release\ScanAndPairSample1.ScanAndPairSample1-Signed.apk
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\bin\Release\Symbol.XamarinEMDK.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\ScanAndPairSample1.csprojResolveAssemblyReference.cache
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\ScanAndPaiSample1.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\ScanAndPaiSample1.pdb
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\bin\ScanAndPairSample1.ScanAndPairSample1.apk
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\res\layout\simple_spinner_item.xml
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\res\layout\main.xml
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\res\values\strings.xml
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\res\drawable\icon.png
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\R.cs.flag
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\uploadflags.txt
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\bin\Release\ScanAndPaiSample1.dll.mdb
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\ScanAndPaiSample1.dll.mdb

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialCommSample1", "SerialCommSample1\SerialCommSample1.csproj", "{8469B109-E44B-4B03-9BA6-0C0541F2D74B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialCommSample1", "SerialCommSample1\SerialCommSample1.csproj", "{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8469B109-E44B-4B03-9BA6-0C0541F2D74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8469B109-E44B-4B03-9BA6-0C0541F2D74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8469B109-E44B-4B03-9BA6-0C0541F2D74B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{8469B109-E44B-4B03-9BA6-0C0541F2D74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8469B109-E44B-4B03-9BA6-0C0541F2D74B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8469B109-E44B-4B03-9BA6-0C0541F2D74B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}.Debug|Any CPU.Deploy.0 = Release|Any CPU
+		{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E2A68A-F4C2-4D7B-A626-40B4B0D3DB8A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

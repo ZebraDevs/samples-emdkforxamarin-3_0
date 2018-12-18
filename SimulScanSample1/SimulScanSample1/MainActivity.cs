@@ -5,15 +5,10 @@
 
 using Android.App;
 using Android.Content;
-using Android.Content.PM;
-using Android.Widget;
 using Android.OS;
 using Android.Util;
-using Xamarin.Android;
 using Android.Views;
 using Symbol.XamarinEMDK.SimulScan;
-using Android.Support.V4.Content;
-using Android.Support.V4.App;
 
 namespace Symbol.XamarinEMDK.SimulScanSample1
 {
@@ -25,7 +20,6 @@ namespace Symbol.XamarinEMDK.SimulScanSample1
 
     public Settings localSettings = new Settings();
     public DeviceControl dc = new DeviceControl();
-    public int REQUEST_CODE_ASK_PERMISSIONS = 99;
 
     protected override void OnCreate(Bundle bundle) 
     {
@@ -39,35 +33,13 @@ namespace Symbol.XamarinEMDK.SimulScanSample1
         RegisterReceiver(broadcastReceiver, filter);
 
         SetContentView(Resource.Layout.activity_main_2);
-        if ((int)Build.VERSION.SdkInt > 22)
-        {
-            int hasWriteContactsPermission = (int)ContextCompat.CheckSelfPermission(this, Android.Manifest.Permission.WriteExternalStorage);
-            if (hasWriteContactsPermission != (int)Permission.Granted)
-            {
-                
-                
-                ActivityCompat.RequestPermissions(this, new string[] { Android.Manifest.Permission.WriteExternalStorage }, REQUEST_CODE_ASK_PERMISSIONS);
-            }
-            else
-            {
-                continueToApplication();
-            }
-        }
-        else
-        {
-            continueToApplication();
-        }
-    }
-
-        private void continueToApplication() 
-        {
-        
-            Android.App.FragmentTransaction transaction = FragmentManager.BeginTransaction();
+        if (bundle == null) {
+            FragmentTransaction transaction = FragmentManager.BeginTransaction();
             transaction.Add(Resource.Id.device_controls, dc);
             transaction.Add(Resource.Id.settings, new SettingsFragment());
             transaction.Commit();
         }
-    
+    }
 
     protected override void OnPause() {
         // TODO Auto-generated method stub

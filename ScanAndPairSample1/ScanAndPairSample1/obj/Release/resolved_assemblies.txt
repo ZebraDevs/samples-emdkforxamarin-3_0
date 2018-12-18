@@ -1,0 +1,8 @@
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\ScanAndPaiSample1.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\Java.Interop.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\Mono.Android.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\mscorlib.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\System.Core.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\System.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\Symbol.XamarinEMDK.dll
+C:\EMDK_Xamarin\Source\Samples\ScanAndPairSample1\ScanAndPairSample1\obj\Release\android\assets\System.Runtime.Serialization.dll

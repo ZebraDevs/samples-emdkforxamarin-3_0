@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Symbol.XamarinEMDK.SerialCommSample1.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("symbol.xamarinemdk.EMDKXamarinSerialComm.Resource", IsApplication=true)]
 
-namespace Symbol.XamarinEMDK.SerialCommSample1
+namespace symbol.xamarinemdk.EMDKXamarinSerialComm
 {
 	
 	
