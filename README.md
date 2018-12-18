@@ -1,5 +1,5 @@
-# samples-emdkforxamarin-2_7
-EMDK For Xamarin 2.7 Samples
+# samples-emdkforxamarin-3_0
+EMDK For Xamarin 3.0 Samples
 
 
 # DEVBites
